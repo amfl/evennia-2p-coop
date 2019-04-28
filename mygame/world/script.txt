@@ -1,0 +1,53 @@
+﻿Introduction
+
+
+Two fellows different from each other. One big, one little.
+
+
+Big fellow: Turnip
+Little fellow: Pumpernickel
+
+
+Intro
+Turnip:
+The forest is rich greens and browns surrounding you as you hike through the woods. You know the path well and didn’t bring anything except a single protein bar. You were busy admiring the scenery and the leaves blowing in the wind. So much that you didn’t notice when the sun disappeared behind the dark clouds until the rain was pelting down around you. Fat droplets fell from the canopy overhead, splattering into your clothes, soaking you through. You rushed for shelter, remembering there was an old abandoned house, overgrown with weeds and vines but still intact somewhere nearby. You got under the front porch shelter and shivered in the cold air in your soaking clothes.
+There is a door. The window to the left of the door is broken. A porch swing covered in moss hangs to the right of the door, swaying in the wind. There is a doormat that said something, probably welcome, that has since rotted to be illegible.
+
+
+Pumpernickel:
+Your day was going well until the rains came. Your tall, conical hat was looking stiff and impressive. Your beard had no knots in it, and your hunt for nuts and berries was a grand success. You had your little sack thrown over your shoulder and were on your way home when the rain came. The sudden splash of a boot knocked you flat and soaked you through with mud, and you pushed your hat back to see a giant fellow – a human – racing toward the abandoned house near your little hollow-stump home. He stood on the rickety porch, staring around, shivering. You picked up your bag and a leaf for an umbrella and smoothed your beard.
+You see the crawl space underneath the house next to the stairs. Your stump home is not far away. The stairs are big, but you could climb them. Who knows how the human may react. You are carrying a small bag of nuts and berries, and a leaf-umbrella.
+
+
+TURNIP:
+Look: You are on the front porch in front of a ramshackle old house. Rain pours down outside, mere feet from your rickety, creaking shelter. Some drops leak through cracks above you, dropping to the rotting porch underfoot. The grass moves like it were filled with living things as fat droplets pour down, battering it. There is a porch swing and a doormat.
+Look front door (door): The front door is solid wood.
+Look doormat (door mat; mat): The mat used to say something, but the words have long faded to illegibility.
+Look window: The window is broken. There is no trace of broken glass outside.
+Open door: The door is locked. It rattles, but despite its age, you don’t think you could break it.
+Inventory: You have your keys.
+Leave (Go home): You abandon the house and run out into the woods in the rain. You arrive home cold and ill and spend a week in bed. A foolish decision, but you made it. You may live with the consequences.
+
+
+EXITS: East (Woods), West (Door), North (north side of house), South (south side of house).
+
+
+
+
+
+
+PUMPERNICKEL:
+
+
+Look: You are in the grass outside that rickety old house near your stump. There is a human on the front porch. He has not seen you. The rain is soaking your boots and splashing around you, and your leaf umbrella does little to protect you. There is a crawl space under the porch, the stairs, and the human.
+Look umbrella (leaf): Your umbrella is a leaf with a curled stem. It doesn’t do an amazing job at keeping the rain off you, but it tries.
+Look bag: You are carrying a bag of berries and nuts, with a single mushroom sitting on top. It’s your dinner and breakfast and also your lunch.
+Look human: He’s very tall, as most humans are. He looks like he was dressed for a walk, and was not prepared for the sudden rain.
+Look house: Like most human houses, it is very big. It’s bigger than they need, but impressive nonetheless. This one has been abandoned for a very long time. One of the windows is broken, and the front door is locked. No one comes here anymore.
+Look crawl space: There is a hole in the base of the house under the porch into which you could walk. You’ve been in there before to hunt and hide from some of the more belligerent animals. It looks very muddy.
+Go home: Your stump is south of the house. You have to go south first.
+EXITS: East (woods), West (Crawl space), North (north side of house), South (south side of house((your stump))).
+
+
+EAST (WOODS): You don’t want to scamper off into the wet woods again. Not with home so close and your backpack full.
+WEST (CRAWL SPACE): You enter the crawl space under the porch. A snake is curled up in one corner, silent, cold, and watching you. A large spider clings to the wall in the opposite direction. There is a key sitting on the ground half-buried in dirt underneath the steps where the human is standing, having fallen through the wood. A tunnel leads further underneath the house.

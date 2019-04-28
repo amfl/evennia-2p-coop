@@ -15,7 +15,7 @@ own cmdsets by inheriting from them or directly from `evennia.CmdSet`.
 """
 
 from evennia import default_cmds
-
+from evennia.contrib import extended_room
 
 class CharacterCmdSet(default_cmds.CharacterCmdSet):
     """
@@ -30,6 +30,8 @@ class CharacterCmdSet(default_cmds.CharacterCmdSet):
         Populates the cmdset
         """
         super().at_cmdset_creation()
+        # Allows the use of 'look' to check for additional room details
+        self.add(extended_room.ExtendedRoomCmdSet)
         #
         # any commands you add below will overload the default ones.
         #
