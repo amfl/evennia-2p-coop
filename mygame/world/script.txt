@@ -50,4 +50,19 @@ EXITS: East (woods), West (Crawl space), North (north side of house), South (sou
 
 
 EAST (WOODS): You don’t want to scamper off into the wet woods again. Not with home so close and your backpack full.
-WEST (CRAWL SPACE): You enter the crawl space under the porch. A snake is curled up in one corner, silent, cold, and watching you. A large spider clings to the wall in the opposite direction. There is a key sitting on the ground half-buried in dirt underneath the steps where the human is standing, having fallen through the wood. A tunnel leads further underneath the house.
+WEST (CRAWL SPACE):  You enter the crawl space under the porch. Look: A snake is curled up in one corner, silent, cold, and watching you. A large spider clings to the wall in the opposite direction. There is a key sitting on the ground half-buried in dirt underneath the steps where the human is standing, having fallen through the wood. A tunnel leads further underneath the house.
+EXITS: West (deeper under the house), East (outside to front porch).
+Pet (touch, talk, interact, bother, annoy, fuck) snake: The snake is visibly annoyed by your presence. It does not appreciate your advances.
+        (second time): The snake hisses and raises its head. It looks quite angry.
+                (Third time): The snake is tired of your attention and you have not heeded its warnings. It bites you, hard, and despite your quick feet and nimble arms you receive two deep bites in your torso. The world slowly goes dark as the snake wraps itself around you. You did not respect mother nature, and now you are dead. Game Over.
+Pet (touch, talk, interact, bother, annoy, fuck) spider: The spider is not interested in you. You are far too big for it to eat, and you aren’t big enough to be a threat. It doesn’t move. (repeated interactions do nothing unless…)
+        (Punch spider): You punch the spider. Despite your diminutive size, you have a good amount of strength in your fists, and you crush the spider’s leg. It skitters off in terror and fear, now seven-legged.
+Get key: You dig the key out of the dirt and heft it over a shoulder. It’s not very heavy, not compared to your backpack. You acquire “Key.”
+Go outside: Return to the front porch.
+Go west: Enter the crawl space.
+
+
+TURNIP: 
+Go west (door): You can’t go west. The door is locked.
+Go window: The hole in the glass isn’t big enough for you to crawl through or reach the door from.
+Look inside window: The room inside appears to be a living room.
